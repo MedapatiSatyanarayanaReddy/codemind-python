@@ -1,4 +1,3 @@
-import math
-radius=int(input())
-area=3.14*radius**2
-print("%.2f"%(area))
+n=int(input())
+radius=3.14*n*n
+print("%.2f"%(radius))
